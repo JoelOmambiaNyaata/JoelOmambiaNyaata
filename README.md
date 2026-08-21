@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Joel Omambia Nyaata
 
-**Educator | Data Analyst | AI & Automation Specialist | Scratch Programming Expert**
+**Educator | Data Analyst | AI & Workflow Automation Specialist | Scratch Programming Expert**
 
 📍 Nairobi, Kenya | 📧 omambianyaata@gmail.com
 
