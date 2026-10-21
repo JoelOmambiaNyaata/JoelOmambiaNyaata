@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Joel Omambia Nyaata
 
-**Educator | Data Analyst | AI & Workflow Automation Specialist | Scratch Programming Expert**
+**Educator | Data Analyst | Data Scientist | AI & Workflow Automation Specialist | Scratch Programming Expert**
 
 📍 Nairobi, Kenya | 📧 omambianyaata@gmail.com
 
@@ -32,7 +32,7 @@ I'm passionate about using data and AI to improve learning outcomes — combinin
 
 ---
 
-## 🎓 Certifications
+## 🎓 Education
 
 - Data Science Bootcamp — Moringa School *(completing Dec 2026)*
 - AI & Automation Training — n8n, Zapier, Make.com, AI Agent Building
